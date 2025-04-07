@@ -1,1 +1,1 @@
-# A-simulation
+# A*-simulation
